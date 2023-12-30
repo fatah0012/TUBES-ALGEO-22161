@@ -1,0 +1,103 @@
+Studi Kasus Aljabar Geometri
+1.1. Menghitung Penjumlahan Matriks (2x2)
+Matriks Pertama :
+[3 5]
+[4 7]
+
+Matriks Kedua :
+[2 5]
+[4 8]
+
+Output Penjumlahan Matriks :
+[5 10]
+[8 15]
+
+=======================================
+
+1.2. Menghitung Pengurangan Matriks (2x2)
+Matriks Pertama :
+[2 6]
+[5 7]
+
+Matriks Kedua :
+[5 7]
+[4 8]
+
+hasil Pengurangan Matriks :
+[-3 -1]
+[1 -1]
+
+=======================================
+
+2.1. Menghitung Matriks Transpose (2x2)
+Elemen Matriks (2x2) :
+[7 5]
+[4 6]
+
+Matriks Transpose :
+[7 4]
+[5 6]
+
+========================================
+
+2.2. Menghitung Matriks Transpose (3x3)
+Elemen Matriks (3x3) :
+[3 4 5]
+[6 7 8]
+[1 2 3]
+
+Matriks Transpose :
+[3 6 1]
+[4 7 2]
+[5 8 3]
+
+=========================================
+
+3.1. Menghitung Matriks Balikan (2x2)
+Elemen Matriks (2x2) :
+[4 6]
+[7 9]
+
+Matriks Balikan :
+[-1.5 1.0]
+[1.1666666666666667 -0.6666666666666666]
+
+=========================================
+
+4.1. Menghitung Determinan (2x2)
+Elemen Matriks (2x2) :
+[4 7]
+[8 4]
+
+Matriks :
+[4.0 7.0]
+[8.0 5.0]
+
+Determinan Matriks (2x2) : -36.0
+
+=========================================
+
+4.2. Menghitung Determinan (3x3)
+Elemen Matriks (3x3) :
+[2 3 1]
+[2 1 2]
+[1 1 1]
+
+Matriks :
+[2.0 3.0 1.0]
+[2.0 1.0 2.0]
+[1.0 1.0 1.0]
+
+Determinan Matriks (3x3) adalah : -1.0
+
+=========================================
+
+5.1. Sistem Persamaan Linier (2x3)
+Matriks (2x3)
+[4 6 8]
+[6 3 5]
+
+Solusi x, y:
+{0.25 1.16666667]
+
+
